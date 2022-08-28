@@ -1,0 +1,10 @@
+Binary_Dataset_for_RRRule_{CN Method}:          Full binary AB query from the Materials Project
+BinaryLES_Dataset_localenv:                     Lowest energy structure per composition of the full query
+BinaryMX_{embedding}_pred_results:              Coordination number prediction results
+BinaryMX_{embedding}_struct_pred_results:       Structure prediction results
+BinaryMX_{embedding}_Substitution_Table:        Substitution probability pivot table
+Cations_wo_OxiState:                            Cations without a defined oxidation state
+Final_RR_Dataset_{CN Method}:                   Final dataset for Radius Ratio Rule prediction
+{embedding} Lambda Table:                       Lambda pivot table
+{embedding}_lambda.json:                        JSON file containing ions and lambda values for ion pairs
+{embedding}_correlation:                        Correlation values (Pearson or otherwise) and Mendeleev number differences
